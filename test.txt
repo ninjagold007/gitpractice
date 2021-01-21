@@ -1,7 +1,7 @@
-One
+one
 two
 three
 4
 5
 6
-final edit
+final edits
